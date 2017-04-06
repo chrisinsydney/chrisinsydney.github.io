@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.gcsoft.bigtapp",
-                "paths": [ "*"]
+                "appID": "GMCY4M6GAH.com.gcsoft.bigtapp",
+                "paths": ["*"]
             }
         ]
     }
