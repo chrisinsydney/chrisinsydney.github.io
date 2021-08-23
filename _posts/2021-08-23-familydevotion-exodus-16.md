@@ -4,7 +4,7 @@ category: family_devotion
 ---
 
 1. Read part of Exodus responsively with your children
-2. Watch children's video: https://youtu.be/4ydGDeN2ALY
+2. Watch children's video: [https://youtu.be/4ydGDeN2ALY](http://)
 3. Discuss about observation, learning and question with your children
 4. Pray
 
