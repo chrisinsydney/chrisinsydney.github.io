@@ -5,6 +5,7 @@ title: Family devotion最近关心的方向
 最近和儿子的devotion重新回到了读儿童Bible上，还是用的之前我帮他读过2遍的The Jesus Storybook Bible。
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51EV3frxRAL._SX409_BO1,204,203,200_.jpg)
+
 Amazon link: [https://www.amazon.com.au/Jesus-Storybook-Bible-Sally-Lloyd-Jones/dp/0310708257](https://www.amazon.com.au/Jesus-Storybook-Bible-Sally-Lloyd-Jones/dp/0310708257)
 
 不过这次不同的是，我开始和儿子用responsive reading的方式，每个人一个句子，这样可以保证他有兴趣而且不会走神。
